@@ -33,7 +33,7 @@ TestNG Plugin is built-in in the IntelliJ IDEA, from version 7 onwards.
 
 ## Downloading the Sample Project
 
-* [Clone](https://github.com/PerfectoMobileSA/Perfecto-Curiosity-Sample.git) the repository.
+* [Clone](https://github.com/PerfectoMobileSA/Perfecto-TestModeller-Sample.git) the repository.
 
 * After downloading and unzipping the project to your computer, open it from your IDE by choosing the folder containing the pom.xml 
 
